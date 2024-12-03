@@ -87,5 +87,11 @@ friends: [
     },{
         title: "Github",
         href: "https://github.com"
+    },{
+        title: "团队-洒洒水啦",
+        href: "https://salaa-hulaa.github.io"
+    },{
+        title: "Siupal",
+        href: "https://github.com/siupal"
     }
 ]
